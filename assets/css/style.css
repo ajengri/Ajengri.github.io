@@ -602,21 +602,21 @@ section {
   }
 }
 
-@media (max-width: 520px) {
+@media (max-width: 540px) {
   .contact iframe {
-    width: 445px;
+    width: 455px;
   }
 }
 
-@media (max-width: 460px) {
+@media (max-width: 470px) {
   .contact iframe {
-    width: 395px;
+    width: 390px;
   }
 }
 
 @media (max-width: 390px) {
   .contact iframe {
-    width: 315px;
+    width: 355px;
   }
 }
 
