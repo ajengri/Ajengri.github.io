@@ -590,6 +590,36 @@ section {
   min-height: 500px;
 }
 
+@media (max-width: 990px) {
+  .contact iframe {
+    width: 695px;
+  }
+}
+
+@media (max-width: 764px) {
+  .contact iframe {
+    width: 515px;
+  }
+}
+
+@media (max-width: 520px) {
+  .contact iframe {
+    width: 445px;
+  }
+}
+
+@media (max-width: 460px) {
+  .contact iframe {
+    width: 395px;
+  }
+}
+
+@media (max-width: 390px) {
+  .contact iframe {
+    width: 345px;
+  }
+}
+
 .resume .skills-content {
   margin-top: 30px;
 }
